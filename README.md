@@ -2,6 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-0.1.1-blue.svg)](https://github.com/YuliaFin/LabCG)
 ![Python](https://img.shields.io/badge/Python-3.11-purple)
+[![Build, Test](https://github.com/YuliaFin/Lab_CG/actions/workflows/deploy-job.yml/badge.svg)](https://github.com/YuliaFin/Lab_CG/actions/workflows/deploy-job.yml)
 
 Лабораторная заключается в пошаговом построение геометрических изображений.
 Необходимо создать программу, которая позволит создавать и управлять параметрами эллипса.
